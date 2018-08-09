@@ -11,3 +11,6 @@ Some of there APIs may not works any more. So this kind of 'cv_tip' is a an upda
 By using this repo you can easily get a cloud face detect operation, enjoy :P
 
 ![Hi Obama](obama.jpg)
+
+
+### If you want, it also can be changed into a tensorflow service regardless of its performance, really fun :p
