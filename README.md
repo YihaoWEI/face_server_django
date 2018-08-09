@@ -6,7 +6,7 @@ Thanks to these two guys great works before:
 
 [Zhou](https://zhuanlan.zhihu.com/p/36939727)  
 
-Some of there APIs may not works any more. So this kind of 'cv_tip' is a an updated version. Simply tested on Python 3.6 and OpenCV 3.4.  
+Some of there APIs may not works any more. So this kind of 'cv_tip' is an updated version. Simply tested on Python 3.6 and OpenCV 3.4.  
 
 By using this repo you can easily get a cloud face detect operation, enjoy :P
 
