@@ -10,7 +10,9 @@ Some of there APIs may not works any more. So this kind of 'cv_tip' is an update
 
 By using this repo you can easily get a cloud face detect operation, enjoy :P
 
-![Hi Obama](obama.jpg)
+![Hi](https://www.pyimagesearch.com/wp-content/uploads/2015/05/face_detection_requests_adrian-1024x910.jpg)
 
+## How to run it?
+Please see the original work links above.
 
 ### If you want, it also can be changed into a tensorflow service regardless of its performance, really fun :p
