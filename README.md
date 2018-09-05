@@ -15,4 +15,6 @@ By using this repo you can easily get a cloud face detect operation, enjoy :P
 ## How to run it?
 Please see the original work links above.
 
-### If you want, it also can be changed into a tensorflow service regardless of its performance, really fun :p
+### If you want, it also can be changed into a tensorflow service regardless of its performance, really fun :p  
+  
+I also has built a tensorflow django server project. Maybe I will push it on the github sooner or later.   
